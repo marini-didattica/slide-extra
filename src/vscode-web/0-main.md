@@ -89,7 +89,6 @@ Clicca **Considera attendibile il server di pubblicazione e l'installazione** pe
 ---
 layout: image-right
 image: /vscode-web/05.png
-topic: VS Code Web · Workspace
 ---
 
 # Aprire una cartella
@@ -152,7 +151,6 @@ Clicca **Save changes**: così vscode.dev potrà scrivere sulla vostra cartella.
 ---
 layout: center
 class: text-center
-topic: false
 ---
 
 # Primo programma
